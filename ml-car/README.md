@@ -16,7 +16,7 @@ Originally from https://github.com/hpssjellis/Particle-Spark-Core-Photon-Websock
 
 Wiring diagram
 
-[!](ML-Cars-Diagram.png)
+![](ML-Cars-Diagram.png)
 
 
 
