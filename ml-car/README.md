@@ -1,3 +1,11 @@
+
+
+
+Our first group activity. Design a Machine Learning controlled Websockey communication , wifi converted RC car.
+
+
+Originally from https://github.com/hpssjellis/Particle-Spark-Core-Photon-Websocket-Hack
+
 # Node.js Websocket Test
 
 
