@@ -12,6 +12,17 @@ This project was originally made using cloud9.io but that has sinced changed to 
 
 Originally from https://github.com/hpssjellis/Particle-Spark-Core-Photon-Websocket-Hack
 
+
+
+Wiring diagram
+
+[!](ML-Cars-Diagram.png)
+
+
+
+
+
+
 # Node.js Websocket Test
 
 
