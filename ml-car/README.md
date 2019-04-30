@@ -1,7 +1,7 @@
 
 
 
-Our first group activity. Design a Machine Learning controlled Websockey communication , wifi converted RC car.
+Our first group activity. Design a Machine Learning controlled Websockey communication , wifi converted <a href="https://www.rcpro.ca/shredder">RC Shredder car</a>.
 
 
 This project was originally made using cloud9.io but that has sinced changed to AWS-cloud9 so I have converted things to work on repl.it
