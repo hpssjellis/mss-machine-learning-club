@@ -29,6 +29,11 @@ April 30th, 2019. See the folder ml-car for our first project. A Machine Learnin
 
 
 
+Best index.html download for EdgeImpusle
+
+https://github.com/hpssjellis/my-examples-of-edge-impulse/tree/main/public/downloads
+
+
 
 
 
@@ -42,5 +47,6 @@ Charles
 
 JaeHee
 
+Tynen
 
-Brandon
+Brandon  https://github.com/Machinelearning3Dprinting/Edgeimpulse-testing  
