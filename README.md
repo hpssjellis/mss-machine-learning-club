@@ -41,7 +41,7 @@ https://github.com/hpssjellis/my-examples-of-edge-impulse/tree/main/public/downl
 
 arvid    https://github.com/Arved1241/Arveds_ML   
 
-Jack
+Jack    https://jack-cedar.github.io/mss-gamedev-jcedar/public/index.html
 
 Charles
 
